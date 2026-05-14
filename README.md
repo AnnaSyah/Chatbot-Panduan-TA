@@ -1,4 +1,4 @@
-# 🎓 AI PDF Chatbot for Thesis & Academic Guidance
+# 🤖 Gemini AI PDF Chatbot for Academic Guidance
 
 An AI-powered PDF chatbot built with Google Gemini AI and Streamlit.  
 This project helps students interact with academic guideline documents such as thesis manuals, final project guides, or research instructions through a conversational interface.
@@ -16,6 +16,37 @@ The current version is focused on:
 - Streamlit interface experimentation
 
 Future improvements and new features will continue to be added gradually.
+
+---
+
+## 🎓 Training & Educational Background
+
+This project was developed as the Final Project of the AI training program:
+
+**“LLM-Based Tools & Gemini API Integration for Data Scientist”**
+
+organized by Hacktiv8 in collaboration with:
+- MAJU BARENG AI
+- AVPN
+- Google.org
+- Asian Development Bank (ADB)
+
+The training focused on:
+- Generative AI fundamentals
+- Large Language Models (LLM)
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- LangChain
+- Gemini API integration
+- AI chatbot development using Streamlit
+
+This repository represents the initial implementation and practical application of the knowledge gained during the program.
+
+---
+
+### Training Program Poster
+
+![Hacktiv8 Training](images/hacktiv8-training-poster.jpg)
 
 ---
 
@@ -42,7 +73,17 @@ Future improvements and new features will continue to be added gradually.
 
 ---
 
-## 📂 Project Structure
+## 📦 Installation
+
+Install all required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+> Note: Most dependencies can also be installed directly inside Google Colab notebook cells.
+
+---
 
 ## 📂 Project Structure
 
@@ -58,7 +99,6 @@ Chatbot-Panduan-TA/
     ├── ui-awal.png              # Initial chatbot interface
     └── ui-chatbot.png           # Chatbot response example
 ```
-
 ---
 
 ## ▶️ How to Run the Project
@@ -77,8 +117,7 @@ Run all installation cells inside the notebook.
 
 ### 3. Generate Gemini API Key
 
-Get your API key from Google AI Studio:
-https://aistudio.google.com/app/apikey
+Get your API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
 
 ---
 
