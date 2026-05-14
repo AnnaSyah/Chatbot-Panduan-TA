@@ -17,6 +17,8 @@ The current version is focused on:
 
 Future improvements and new features will continue to be added gradually.
 
+> 🌏 Current implementation is primarily optimized for Indonesian-language academic documents and interactions.
+
 ---
 
 ## 🎓 Training & Educational Background
