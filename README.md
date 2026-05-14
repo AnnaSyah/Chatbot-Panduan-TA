@@ -44,11 +44,19 @@ Future improvements and new features will continue to be added gradually.
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 ```bash
 Chatbot-Panduan-TA/
 │
-├── Final Project Chatbot Panduan TA.ipynb
-├── README.md
+├── gemini_pdf_chatbot.ipynb     # Main Google Colab / Jupyter Notebook project
+├── requirements.txt             # Project dependencies
+├── README.md                    # Project documentation
+│
+└── images/
+    ├── repository.png           # GitHub repository preview
+    ├── ui-awal.png              # Initial chatbot interface
+    └── ui-chatbot.png           # Chatbot response example
 ```
 
 ---
